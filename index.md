@@ -8,3 +8,7 @@ Web and app-based CVD Evaluator and Heart Failure clinical decision support syst
 
 This innovative mobile app for heart failure does what no other piece of software can claim. Powered by artificial intelligence, CVD Evaluator is clinically proven to lead to improved outcomes by providing clinical decision support based on the latest guidelines and clinical data.
 Designed, developed by the clinicians capable of coding, it is particularly appealing to new generation tech savvy and technology dependent practitioners.
+
+[CV Medical Software](https://cvmedicalsoftware.com/)
+
+[CVD Evaluator](https://cvdevaluator.com/)
